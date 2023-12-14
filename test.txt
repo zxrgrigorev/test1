@@ -1,5 +1,7 @@
-hello world!
-hello Zahar!
+|-----------------------|
+|      hello world!     |
+|      hello Zahar!     |
+|-----------------------|
 tra ta ta
 from Taganrog! ;)
 Hello Arthur
